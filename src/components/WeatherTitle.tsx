@@ -15,8 +15,8 @@ const WeatherTitle = () => {
                     fontSize: 'clamp(2rem, 5vw, 3rem'
                 }}
             >
-                    浜松の天気情報
-                </Typography>
+                浜松の天気情報
+            </Typography>
         </Box>
     )
 }
